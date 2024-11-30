@@ -11,15 +11,17 @@ const About = () => {
                 </p>
             </div>
             <p className='text-xl mt-15'>
-            Welcome folks ! I'm Shikhar Dave, a passionate Machine Learning Enthusiast and a student at the Indian Institute of Technology, Jodhpur.
-           With a strong foundation in DL and a keen interest in cutting-edge technologies, I strive to make a positive impact in the field of artificial intelligence and machine learning. 
-           Throughout my academic journey, I have consistently excelled in various subjects, including data structures and algorithms, machine learning, and deep learning.
-            These skills have enabled me to tackle complex challenges and develop innovative solutions. 
-            I have been fortunate to work on diverse projects that span different domains, showcasing my ability to adapt and apply my knowledge effectively.
-       In addition to my academic pursuits, I have been actively involved in various extracurricular activities and leadership roles. As the Internship Coordinator at the Career Development Cell at IITJ, I am overseeing student internships, placements, and maintaining the official website. Dedicated to facilitating student career advancement.
-       
+            Welcome folks!
+I'm Mayank Bansal, a Computer Science and Engineering student at IIT Jodhpur (Pre-Final Year) with a GPA of 7.48. I specialize in data structures, algorithms, and full-stack development using frameworks like React, Next.js, Flask, and Django, alongside databases like MongoDB and PostgreSQL.
 
-If you share similar passions or have exciting opportunities to explore, feel free to reach out. Let's connect and embark on a journey to drive positive change through technology!
+My projects include:
+
+An ED-Tech Platform with integrated payments for students and instructors.
+An AI-powered IITJ Chatbot using Langchain and Google’s PaLM model.
+A Movie Recommendation System using machine learning for personalized suggestions.
+As part of IITJ’s Career Development Cell, I revamped the website and built an admin portal to streamline placements.
+
+Feel free to connect if you share similar interests or have opportunities to collaborate!
  <br/>
 Best regards.
 

@@ -1,7 +1,7 @@
 import React from 'react'
 import covid from "./images/covid.png"
 import wiki from "./images/wiki.jpg"
-import chatbot from "./images/chatbot.png"
+import chatbot from "./images/cdc.png"
 import healthcare from "./images/healthcare.png"
 
 const Portfolio = () => {
