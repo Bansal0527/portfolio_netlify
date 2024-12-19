@@ -1,6 +1,4 @@
 import React from 'react'
-import covid from "./images/covid.png"
-import wiki from "./images/wiki.jpg"
 import chatbot from "./images/chatbot.png"
 import movie from "./images/movier.png"
 import ed from "./images/ed.png"
