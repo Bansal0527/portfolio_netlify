@@ -1,7 +1,6 @@
 import React from 'react'
 import javascript from "./images/javascript.png"
 import py from "./images/py.png"
-import adobe from "./images/adobe.png"
 import react from "./images/react.png"
 import nextjs from "./images/nextjs.jpeg"
 import java from "./images/java.png"
