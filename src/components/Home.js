@@ -1,5 +1,5 @@
 import React from 'react';
-import sd from './images/Pic_SD.jpg'; 
+import sd from './images/pic.jpeg'
 import {Link} from "react-scroll";
 import Social from "./Social.js"
 
@@ -24,8 +24,8 @@ const Home = () => {
             loop:true,
             delay:300,
             strings:[
-              "I'm a Developer.",
-              "I'm a ML enthusiast.",
+              "I'm a Software Developer.",
+              "I'm a AI/ML enthusiast.",
               "I'm a Data Science enthusiast.",
               "I'm an Innovator."
             ]
@@ -52,7 +52,7 @@ const Home = () => {
         </div>
 
         <div className='w-2/3 md:w-1/2 h-full'>
-            <img className="rounded-2xl mx-auto  md:mr-1 w-full md:w-2/3" src={sd} alt="i am shashank"/>
+            <img className="rounded-2xl mx-auto  md:mr-1 w-full md:w-2/3" src={sd} alt="i am ayank"/>
             <Social style = {styles}/>
         </div>
 
